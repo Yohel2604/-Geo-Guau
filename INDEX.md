@@ -8,11 +8,30 @@
 <img src= https://media.cnn.com/api/v1/images/stellar/prod/cnne-1361799-las-5-razas-de-perro-mas-populares-en-estados-unidos.jpeg?c=16x9&q=h_653,w_1160,c_fill/f_webp width = "500" >
 
 
+### juguetes  
+
+<img src="peluche woow.jpg" height="500" >
+
+### huesos 
+
+<img src="huesoos.jpg" height="500">
+
+### camas  
+
+### pelotas  
+
+
+
+
 ***
 
 ## Gatos
 
 <img src= https://static.nationalgeographic.es/files/styles/image_3200/public/75552.ngsversion.1422285553360.webp?w=1023&h=682 width = "500" >
+
+
+
+
 
 
 
